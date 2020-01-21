@@ -1,0 +1,15 @@
+.App {
+    background-color: #272829;
+  }
+  div[role=tablist] {
+    width: 100%;
+  }
+  button[role=tab] {
+    color:#424344;
+  }
+  button{
+    font-family: 'Manjari', sans-serif ;
+  }
+  .rs-radio-group-picker .rs-radio-checked .rs-radio-checker > label{
+    color:#FF4040;
+  }

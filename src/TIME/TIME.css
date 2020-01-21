@@ -1,0 +1,29 @@
+.App {
+    background-color: #272829;
+  }
+  div[role=tablist] {
+    width: 100%;
+  }
+  button[role=tab] {
+    color:#424344;
+  }
+  button{
+    font-family: 'Manjari', sans-serif ;
+  }
+  g text {
+    fill:rgb(210, 210, 210)!important;
+  }
+  .rs-slider-progress-bar {
+    background-color: #D62728;
+  }
+  li.rs-slider-pass::before {
+    border-color: #D62728!important;
+    width: 13px!important; height: 13px!important;
+    margin-top: -2px!important;
+  }
+  .rs-slider-handle::before {
+    border-color: #960000!important;
+    border-width: 3px;
+    width: 16px; height: 16px;
+    margin-top: -2px;
+  }
