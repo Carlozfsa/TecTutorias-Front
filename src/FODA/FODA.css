@@ -1,0 +1,13 @@
+.App {
+    background-color: #272829;
+  }
+  div[role=tablist] {
+    width: 100%;
+  }
+  button[role=tab] {
+    color:#424344;
+  }
+  button{
+    font-family: 'Manjari', sans-serif ;
+  }
+  

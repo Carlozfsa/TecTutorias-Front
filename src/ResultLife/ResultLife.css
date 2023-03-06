@@ -1,0 +1,16 @@
+button{
+    font-family: 'Manjari', sans-serif ;
+  }
+  #BoxMain{
+    overflow:hidden;
+    width: 1780px;
+    padding-right: small;
+    box-sizing: border-box;
+  }
+
+  #BoxDT{
+    overflow:auto;
+    width: max-content;
+    
+
+  }

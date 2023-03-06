@@ -1,0 +1,26 @@
+.App {
+    background-color: #272829;
+  }
+  div[role=tablist] {
+    width: 100%;
+  }
+  button[role=tab] {
+    color:#424344;
+  }
+  button{
+    font-family: 'Manjari', sans-serif ;
+  }
+  
+  #BoxMain{
+    overflow:hidden;
+    width: 1780px;
+    padding-right: small;
+    box-sizing: border-box;
+  }
+
+  #BoxDT{
+    overflow:auto;
+    width: max-content;
+    
+
+  }
